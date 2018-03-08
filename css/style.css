@@ -19,6 +19,12 @@
   color: Gray;
   text-align: center;
 }
+.footer {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: right;
+}
 
 .download {
   color: aquamarine;
