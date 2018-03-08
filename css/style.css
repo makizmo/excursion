@@ -1,6 +1,34 @@
-h1 {
+.para {
   color: white;
   font-family: Verdana;
   font-weight: Normal;
   text-align: center;
+  font-size: 50px;
+}
+
+.para-two {
+  color: white;
+  font-family: Verdana;
+  font-weight: Normal;
+  text-align: center;
+  font-size: 42px;
+}
+.para-three {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+
+.download {
+  color: aquamarine;
+}
+
+.backcolor{
+  background-color: black;
+}
+
+.position {
+  text-align: center;
+  font-size: 16px;
 }
